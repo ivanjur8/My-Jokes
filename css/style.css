@@ -1,0 +1,15 @@
+.admin-part {
+	text-align: center;
+	padding: 131px 0 100px 0;
+}
+
+.admin-part .title {
+    font-size: 40px;
+}
+
+.admin-part .edit-users {
+	text-align: left;
+	max-width: 1418px;
+	margin: 0 auto;
+	margin-top: 70px;
+}

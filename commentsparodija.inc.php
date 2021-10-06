@@ -17,7 +17,7 @@ $sql = "SELECT * FROM commentsparodija";
 $result = $conn->query($sql);
 while($row = $result->fetch_assoc())
 
-echo '<div class="col-sm"><img src="img\BESTJOKES.png" />' . $row['messageParodija'] .  '</div>';
+echo '<div class="col-sm"><img src="img\slika3.png" />' . $row['messageParodija'] .  '</div>';
 
 
 

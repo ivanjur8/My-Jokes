@@ -6,7 +6,7 @@ require "header.php";
 <main>
 <div style="padding: 100px">
     <h2 class="text-center">Motiv</h2>
-    <h5 class="text-center">Ovim dokumentom  želimo objasniti našu ideju o online šalama.<br> Objasnit će mo značajke i potrebe ovog sustava odnosno sustava za online razmjenjivanja šala.<br> Sustav osigurava korisniku mjesto gdje može objaviti šalu, natjecati se sa ostalim korisnicima prikupljajući lajkove,<br>Cilj dokumenta je: analizirati, definirati potrebe i značajke  sustava za online šala.<br> A sam cilj sustava je da korisnicima omogući jednostavnu razmjenu šala,smiješnih slika,<br>dosjetkih i sl. kako bi oraspoložili društvo u ova teška vremena pogođena pandemijom.
+    <h5 class="text-center">Ovim dokumentom  želimo objasniti našu ideju o online šalama.<br> Objasnit će mo značajke i potrebe ovog sustava odnosno sustava za online razmjenjivanja šala.<br> Sustav osigurava korisniku mjesto gdje može objaviti šalu,<br>Cilj dokumenta je: analizirati, definirati potrebe i značajke  sustava za online šala.<br> A sam cilj sustava je da korisnicima omogući jednostavnu razmjenu šala,<br>dosjetkih i sl. kako bi oraspoložili društvo u ova teška vremena pogođena pandemijom.
     </h5>   
 
   </div>

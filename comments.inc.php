@@ -17,7 +17,7 @@ $sql = "SELECT * FROM comments";
 $result = $conn->query($sql);
 while($row = $result->fetch_assoc())
 
-echo '<div class="col-sm"><img src="img/BESTJOKES.jpg" />' . $row['message'] .  '</div>';
+echo '<div class="col-sm"><img src="img/slika3.png" />' . $row['message'] .  '</div>';
 
 
 
